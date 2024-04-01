@@ -1,2 +1,2 @@
-# Internship
+# Internship Projects
 FlipRobo Technologies
