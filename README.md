@@ -1,2 +1,2 @@
 # Internship Projects
-FlipRobo Technologies
+Data Science Intern @ FlipRobo Technologies
